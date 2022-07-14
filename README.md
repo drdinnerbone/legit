@@ -5,3 +5,10 @@ Hello everyone it's just a simple repository about a website that redirects u to
 ```
 BlazingInfernoDragon123@gmail.com
 ```
+
+Our YouTube Channel Link Plss subscribe -
+<a href="https://youtube.com/channel/UC94rjmYz21IBREgkLaQ7NVA">
+```
+BlazingInfernoDragon123 Channel
+```
+</a>
