@@ -5,6 +5,7 @@ Hello everyone it's just a simple repository about a website that redirects u to
 ```
 BlazingInfernoDragon123@gmail.com
 ```
+</a>
 
 Our YouTube Channel Link Plss subscribe -
 <a href="https://youtube.com/channel/UC94rjmYz21IBREgkLaQ7NVA">
@@ -14,7 +15,7 @@ BlazingInfernoDragon123 Channel
 </a>
 
 Click Here To View It -
-<a href="https://youtube.com/channel/UC94rjmYz21IBREgkLaQ7NVA">
+<a href="https://youtu.be/dQw4w9WgXcQ">
 ```
 Index.html
 ```
