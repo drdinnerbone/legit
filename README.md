@@ -7,10 +7,11 @@ Hello everyone it's just a simple repository about a website that redirects u to
 ```
 index.html
 ```
-
 </a>
+
 # Email For Any Queries Or Issues-
 - 📫 How to reach me If U Have Any Issues or Queries... U can reach me by mailing me at this email address just click once at the blue colored text - <a href="mailto:bibhabbarua@gmail.com">
+
 ```
 BlazingInfernoDragon123@gmail.com
 ```
@@ -19,6 +20,7 @@ BlazingInfernoDragon123@gmail.com
 # Our YouTube Channel Link-
 Our YouTube Channel Link Plss subscribe -
 <a href="https://youtube.com/channel/UC94rjmYz21IBREgkLaQ7NVA">
+
 ```
 BlazingInfernoDragon123 Channel
 ```
@@ -27,6 +29,7 @@ BlazingInfernoDragon123 Channel
 # Direct View of The Webpage 
 Click Here To View It -
 <a href="https://youtu.be/dQw4w9WgXcQ">
+
 ```
 Index.html
 ```
