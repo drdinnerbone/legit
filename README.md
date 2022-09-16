@@ -1,11 +1,11 @@
 # RickRoll-Redirect-Website-In-Html-And-Js
 Hello everyone it's just a simple repository about a website that redirects u to youtube video never gonna give u up
 
-# Live View Of The Webpage Here-
-<a href="https://blaizinginfernodragon123.github.io/RickRoll-Redirect-Website-In-Html-And-Js/">
+# Live View Of The Webpage Here at Github-
+<a href="https://blaizinginfernodragon123.github.io/rickroll-redirect-website-in-html-and-javascript/">
 
 ```
-index.html
+https://blaizinginfernodragon123.github.io/rickroll-redirect-website-in-html-and-javascript/
 ```
 </a>
 
