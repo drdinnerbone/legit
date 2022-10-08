@@ -70,6 +70,16 @@ Support me on patreon?Click Down👇
 <img src="https://1.bp.blogspot.com/-7bPYnbDpDMg/YFfPMuFKyyI/AAAAAAAAS6A/8F8MMmMP4AQSACqo1EAshGTQhm0HEaKygCLcBGAsYHQ/s640/76jg.png">
 </a>
 
+<!--[![leisure]-->
+`
+Fun link.Click Down👇
+`
+
+<a href="https://i.pinimg.com/originals/b2/2a/a2/b22aa22b2f3f55b6468361158d52e2e7.gif">
+<img src="https://i.pinimg.com/originals/b2/2a/a2/b22aa22b2f3f55b6468361158d52e2e7.gif">
+</a>
+
+
 # Direct View of The Webpage 
 Click Here To View It -
 <a href="https://youtu.be/dQw4w9WgXcQ">
@@ -78,3 +88,4 @@ Click Here To View It -
 Index.html
 ```
 </a>
+
