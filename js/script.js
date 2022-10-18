@@ -1,7 +1,7 @@
 function setCookie(Default, value, options = {}) {
 
   options = {
-    path: 'https://blaizinginfernodragon123.github.io/copy-to-clipboard-button-in-html-and-css-and-javascript-/',
+    path: 'https://blaizinginfernodragon123.github.io/rickroll-redirect-website-in-html-and-javascript/',
     // add other defaults here if necessary
     ...options
   };
