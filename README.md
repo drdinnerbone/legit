@@ -7,6 +7,23 @@ Also please note that-
 `
 Use any url shortener service like bitly or tiny url so that no one would be suspicious to your link 
 `
+<br>
+Or
+<br>
+
+`
+Use this link provided below for rickrolling anyone
+`
+
+<br>
+
+<a href="https://bit.ly/huge-giveaway-bumper-offer">
+
+```
+https://bit.ly/huge-giveaway-bumper-offer
+```
+</a>
+
 # Live View Of The Webpage Here at Github-
 
 <a href="https://blaizinginfernodragon123.github.io/rickroll-redirect-website-in-html-and-javascript/">
