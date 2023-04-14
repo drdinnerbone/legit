@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="refresh" content="5; url='https://youtu.be/dQw4w9WgXcQ' "/> 
     <meta name="theme-color" content="#db5945">
-    <title>Normal Website :)</title>
+    <title>Loading please wait...</title>
     <link rel="icon" href="https://avatars.githubusercontent.com/u/96913755?v=4" type="image/x-icon"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <style>
@@ -116,7 +116,7 @@
     <div class="loader">
     </div>
     <div class="frame">
-        <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ?&autoplay=1" scrolling="no" loading="lazy" frameborder="0" alt="Your Browser  Doesn't Supports HTML 5">Your Browser  Doesn't Supports HTML 5</iframe>
+        <iframe onload="noBack()" src="https://www.youtube.com/embed/dQw4w9WgXcQ?&autoplay=1" scrolling="no" loading="lazy" frameborder="0" alt="Your Browser  Doesn't Supports HTML 5">Your Browser  Doesn't Supports HTML 5</iframe>
     </div>
     
     <script>
@@ -126,6 +126,15 @@
         const body = document.querySelector("body");
         const link = document.querySelector("a");
 
+       //     window.history.forward();
+
+      //window.history.forward(); 
+
+        function noBack() { 
+
+            window.history.forward(); 
+
+        } 
             body.addEventListener("contextmenu",(e) =>{
                 alert("If you want to see source then visit github - https://github.com/blaizinginfernodragon123/rickroll-redirect-website-in-html-and-javascript/");
                 e.preventDefault();
