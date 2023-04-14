@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <!--   <meta http-equiv="refresh" content="6; url='https://youtu.be/dQw4w9WgXcQ' "/> -->
+    <title>Normal Website :)</title>
+    <link rel="icon" href="https://avatars.githubusercontent.com/u/96913755?v=4" type="image/x-icon"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <style>
+        *{
+            box-sizing: border-box;
+            text-align: center;
+        }
+        body{
+            font-family: Verdana, Arial, sans-serif;
+            background: linear-gradient(180deg,rgb(6, 218, 165),80%,rgb(0, 217, 255));
+        }
+        a{
+            text-decoration: none;
+        }
+        a:hover{
+            text-decoration: underline;
+        }
+        .head{
+            border: 1px solid transparent ;
+            padding: 1rem 2rem;
+            border-radius: 1rem;
+            width: 50%;
+            display: flex;
+            background: #fff;
+            align-items: center;
+            justify-content: center;
+            position: absolute;
+            left: 25%;
+            top: 8%;
+            transition: 0.4s ease-in-out;
+            cursor: pointer;
+            animation: pop 0.5s ease-in-out;
+            box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+        }
+        .head:hover{
+            background-color: #dedede;
+            box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+        }
+        @keyframes pop {
+            0%{
+                transform: scale(0);
+            }
+            100%{
+                transform: scale(1);
+            }
+        }
+        .loader{
+            border: 1rem solid #000;
+            border-radius: 30rem;
+            height: 13rem;
+            width: 13rem;
+            border-bottom: 1rem solid #dedede;
+            border-top: 1rem solid #dedede;
+            margin-top: 2rem;
+            animation: spin 0.5s linear infinite;
+            position: absolute;
+            top: 30%;
+            left: 42%;
+        }
+        iframe{
+            overflow: auto;
+            font-family: sans-serif;
+            animation: pop 0.5s ease-in-out;
+            position: static;
+            width: 30%;
+                margin-top: 28rem;
+                border: .5px solid transparent;
+                border-radius: 1em;
+                box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+        }
+        @keyframes spin {
+            0%{
+                transform: rotate(0deg);
+            }
+            100%{
+                transform: rotate(360deg);
+                
+            }
+        }
+        @media (max-width: 500px) {
+            .head{
+                width: 100%;
+                position: static;
+                margin-top: 1rem;
+            }
+            .loader{
+                position: absolute;
+                left: 20%;
+                top: 35%;
+            }
+            iframe{
+                position: static;
+                margin-top: 22rem;
+                border: .5px solid #ccc;
+                width: 98%;
+            }
+        }
+    </style>
+</head>
+<body id="body">
+    <div class="head">
+        <p>
+            Please wait till your browser Processes this page
+            or,Click on this link <a href="https://youtu.be/dQw4w9WgXcQ">here</a> if your browser doesn't render the page 
+        </p>
+    </div>
+    <div class="loader">
+    </div>
+    <div class="frame">
+        <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" scrolling="no" loading="lazy" frameborder="0" alt="Your Browser  Doesn't Supports HTML 5">Your Browser  Doesn't Supports HTML 5</iframe>
+    </div>
+    
+    <script>
+        //function load(){
+        const head = document.querySelector(".head");
+        const loader = document.querySelector(".loader");
+        const body = document.querySelector("body");
+        const link = document.querySelector("a");
+
+            body.addEventListener("contextmenu",(e) =>{
+                alert("If you want to see source then visit github - https://github.com/blaizinginfernodragon123/rickroll-redirect-website-in-html-and-javascript/");
+                e.preventDefault();
+            })
+
+
+        /*head.style.display = 'none';
+        loader.style.display = 'none';
+        setTimeout(function(){
+            head.style.display = 'block';
+            setTimeout(function(){
+                loader.style.display = 'block';
+            },500);
+        },800)
+        }*/
+    </script>
+</body>
+</html>
+
+
+
