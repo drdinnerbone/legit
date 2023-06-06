@@ -26,10 +26,10 @@ https://bit.ly/huge-giveaway-bumper-offer
 
 # Live View Of The Webpage Here at Github-
 
-<a href="https://blaizinginfernodragon123.github.io/rickroll-redirect-website-in-html-and-javascript/">
+<a href="https://blazeinferno64.github.io/rickroll-redirect-website-in-html-and-javascript/">
 
 ```
-https://blaizinginfernodragon123.github.io/rickroll-redirect-website-in-html-and-javascript/
+https://blazeinferno64.github.io/rickroll-redirect-website-in-html-and-javascript/
 ```
 </a>
 
